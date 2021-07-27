@@ -21,3 +21,5 @@
 
 # Comparaison des résultats 
 ![ccc](https://user-images.githubusercontent.com/80394725/127162039-2189bc40-3e3d-45e7-abd6-dc3329d96f46.PNG)
+
+À première vue, on remarque que la régression logistique (LR) se distingue et occupe la première place par sa performance. Ainsi, elle confirme sa bonne réputation dans la littérature. Nous pouvons observer que cet algorithme a donné les meilleures performances dans 10 classes sur 12. C’est également LR qui a donné la meilleure valeur de moyenne macro-F1 qui est de 0.59.
